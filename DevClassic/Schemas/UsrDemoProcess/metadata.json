@@ -39,6 +39,7 @@
           "A5": "3b9a94e4-acb8-f0ca-ac81-6bac34e4a554",
           "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
           "BL8": "e4b04231-acb2-41c3-94d1-6bfb97a131bb",
+          "BM1": 0,
           "BM4": [
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
@@ -73,7 +74,8 @@
           "BL8": "e4b04231-acb2-41c3-94d1-6bfb97a131bb",
           "BN2": "31;31",
           "BO3": true,
-          "FC1": []
+          "FC1": [],
+          "ED1": false
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
@@ -103,7 +105,15 @@
           "CI2": "3d4e4f6a-84c1-4fee-803a-ce0e464c86ef",
           "CI3": "null",
           "CI5": "FF939598",
-          "CI6": 1
+          "CI6": 1,
+          "CI7": "0;-1",
+          "CI8": "0;-1",
+          "CI11": "66;215",
+          "CI12": "616;215",
+          "CI10": {
+            "Item0": "66;310",
+            "Item1": "616;310"
+          }
         }
       ],
       "BK9": [],
